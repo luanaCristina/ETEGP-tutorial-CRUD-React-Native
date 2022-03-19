@@ -32,7 +32,7 @@ function AppTab() {
                         tabBarLabel: 'Compras'
                     }}
                 />
-                <Screen name='AppFrom' component={AppForm}
+                <Screen name='AppForm' component={AppForm}
                     options={{
                         tabBarLabel: 'Adicionar'
                     }}
